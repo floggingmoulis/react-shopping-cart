@@ -1,4 +1,4 @@
-1. Create-react-app [x].
+1. Create-react-app and set up git repo[x].
 2. Product List in the homepage.
 3. Filter component by size/price.
 4. Cart component on the side. 
